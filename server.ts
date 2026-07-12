@@ -1,4 +1,4 @@
-
+#!/usr/bin/env node
 /**
  * Unity Super MCP - v1.0
  * Combines:

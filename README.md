@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/logo.png" alt="Unity Super MCP" width="120" />
+<img src="https://raw.githubusercontent.com/aka-kika/unity-super-mcp/main/assets/logo.png" alt="Unity Super MCP" width="120" />
 
 # Unity Super MCP
 
@@ -12,7 +12,7 @@
 [![MCP](https://img.shields.io/badge/Model_Context_Protocol-15_tools-111111)](https://modelcontextprotocol.io)
 [![Unity](https://img.shields.io/badge/Unity-UGS-000000?logo=unity&logoColor=white)](https://unity.com/solutions/gaming-services)
 
-<img src="assets/demo.gif" alt="Unity Super MCP demo" width="700" />
+<img src="https://raw.githubusercontent.com/aka-kika/unity-super-mcp/main/assets/demo.gif" alt="Unity Super MCP demo" width="700" />
 
 </div>
 

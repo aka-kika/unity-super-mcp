@@ -3,11 +3,30 @@
   "version": "1.0.0",
   "description": "Unity Super MCP - UGS LiveOps + Build Size Analyzer + Compliance + Health Check - 15 tools in one",
   "type": "module",
-  "main": "server.ts",
+  "main": "dist/server.js",
+  "bin": {
+    "unity-super-mcp": "dist/server.js"
+  },
+  "files": [
+    "dist"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aka-kika/unity-super-mcp.git"
+  },
+  "homepage": "https://unity-super-mcp.vercel.app",
+  "bugs": {
+    "url": "https://github.com/aka-kika/unity-super-mcp/issues"
+  },
   "scripts": {
     "dev": "npx tsx server.ts",
     "build": "tsc",
-    "start": "node dist/server.js"
+    "start": "node dist/server.js",
+    "prepublishOnly": "npm run build"
   },
   "dependencies": {
     "@modelcontextprotocol/sdk": "^1.12.0",
