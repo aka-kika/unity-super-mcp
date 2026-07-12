@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/unity_mcp_logo.webp" alt="Unity Super MCP" width="120" />
+<img src="assets/logo.png" alt="Unity Super MCP" width="120" />
 
 # Unity Super MCP
 
